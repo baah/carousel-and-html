@@ -1,0 +1,47 @@
+body,html{
+	margin: 0;
+}
+
+.monsoon{
+	background-color: blue; 
+	margin-top: 10%;
+	height: 70%;
+}
+
+.monsoonPadding{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.grey{
+	background-color: #2e3131;
+	color: white;
+
+}
+
+.gradient{
+	background-image: linear-gradient(to bottom, #2e3131 0%, #cfd9df 50%);
+	color: white;
+}
+
+
+
+.monsoonImg{
+	float: left;
+	margin-right: 2%;
+
+}
+
+.beammove{
+	
+	background-color: black; 
+    background-image: linear-gradient(black, white);
+}
+
+.beamsImg{
+	float: right;
+	margin-left: 2%;
+
+}
